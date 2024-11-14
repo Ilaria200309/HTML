@@ -1,1 +1,19 @@
-
+<!doctype html>
+<html>
+  <head><title>lista della spesa</title></head>
+  <body>
+    <center><h1> lista della spesa</h1></center>
+    <center><h2>elenco della spesa</h2></center>
+<ol>
+  <li>Supermercato
+  <ul>
+    <li>pane</li>
+  <li>carote</li>
+    </ul>
+  <li>
+  <li>Negozio dei detersivi</li>
+   <ul> 
+      <li>sgrassatore</li>
+      <li>Panno polvere
+  </body>
+</html>
