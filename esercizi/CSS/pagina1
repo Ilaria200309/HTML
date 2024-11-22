@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<style type="text/css">
+H1 { font-size:28px; font-family:courier; color:green; text-align:center; }
+H2 { font-size:18px; font-family:arial; color:red }
+H3 { font-size:20px; font-family:times new roman; color:blue }
+
+</style>
+</HEAD>
+
+<BODY>
+
+<H1>FOGLIO DI STILE INCORPORATI </H1>
+
+<H2>Primo rigo</H2>
+
+
+
+</HTML> 
+<H3>In questo esempio abbiamo impostato un foglio di stile incorporato <H3>
