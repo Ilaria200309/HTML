@@ -1,0 +1,14 @@
+<HTML>
+
+<HEAD>
+<title>esempio di CSS esterni</title>
+<link rel=stylesheet href="style.css" type="text/css">
+
+</HEAD>
+
+<BODY>
+<H1>FOGLIO DI STILE ESTERNO </H1>
+<H2>Primo rigo</H2>
+<h3> In questo esempio abbiamo utilizzato fogli di stile esterni </h3>
+</BODY>
+</HTML>
